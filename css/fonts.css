@@ -1,0 +1,54 @@
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/RalewayRegular/RalewayRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/RalewayRegular/RalewayRegular.woff") format("woff"), url("../fonts/RalewayRegular/RalewayRegular.ttf") format("truetype"); }
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../fonts/RalewayBold/RalewayBold.eot?#iefix") format("embedded-opentype"), url("../fonts/RalewayBold/RalewayBold.woff") format("woff"), url("../fonts/RalewayBold/RalewayBold.ttf") format("truetype"); }
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/RalewayLight/RalewayLight.eot?#iefix") format("embedded-opentype"), url("../fonts/RalewayLight/RalewayLight.woff") format("woff"), url("../fonts/RalewayLight/RalewayLight.ttf") format("truetype"); }
+@font-face {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/RalewaySemiBold/RalewaySemiBold.eot?#iefix") format("embedded-opentype"), url("../fonts/RalewaySemiBold/RalewaySemiBold.woff") format("woff"), url("../fonts/RalewaySemiBold/RalewaySemiBold.ttf") format("truetype"); }
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url('../fonts/OpenSans-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url('../fonts/OpenSans-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../fonts/FontAwesome/fontawesome-webfont.eot');
+    src: url('../fonts/FontAwesome/fontawesome-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/FontAwesome/fontawesome-webfont.woff') format('woff'),
+         url('../fonts/FontAwesome/fontawesome-webfont.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'linea-basic-10';
+    src: url('../fonts/linea-basic-10/linea-basic-10.eot');
+    src: url('../fonts/linea-basic-10/linea-basic-10.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/linea-basic-10/linea-basic-10.woff') format('woff'),
+         url('../fonts/linea-basic-10/linea-basic-10.ttf') format('truetype'),
+         url('../fonts/linea-basic-10/linea-basic-10.svg#FontName') format('svg');
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+

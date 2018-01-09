@@ -1,0 +1,154 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+    .top_wrap {
+        margin-top: 250px;
+    }
+    .s_deskr::after {
+        margin-top: 20px; }
+    .s_deskr {
+        margin-bottom: 50px;
+    }
+    .s_deskr h2 {
+        margin-bottom: 15px;
+    }
+    section {
+        padding: 15px 0;
+    }
+     section h3 {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+    .top_wrap .top_text h1 {
+        font-size: 28px;
+    }
+    .top_text p {
+        font-size: 16px;
+    }
+    .container {
+        margin-left: 0;
+        margin-right: 0;
+        min-width: 320px;
+        width: 100%;
+    }
+    .main_bg_color {
+        min-width: 320px;
+    }
+    .nav_menu {
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .top_wrap {
+        margin-top: 200px;
+    }
+    .s_deskr {
+        margin-bottom: 50px;
+    }
+    .s_deskr h2 {
+        margin-bottom: 15px;
+    }
+    .s_deskr::after {
+        margin-top: 20px; }
+    .row .left_block {
+        text-align: left;
+        border: none;
+    }
+     section {
+        padding: 15px 0;
+    }
+    section h3 {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    }
+    .nav_menu .ul_top_menu {
+        margin-top: 0;
+    }
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+   .top_wrap .top_text h1 {
+        font-size: 28px;
+        padding: 0;
+    }
+    .top_text p {
+        font-size: 16px;
+    }
+     .main_bg_color {
+        min-width: 320px;
+    }
+    .nav_menu {
+        background-color: rgba(0, 0, 0, 0.9);
+    }
+    .top_wrap {
+        margin-top: 200px;
+    }
+    .person_foto img {
+        max-width: 280px;
+    }
+    .s_deskr {
+        margin-bottom: 50px;
+    }
+    .s_deskr h2 {
+        margin-bottom: 15px;
+    }
+    .s_deskr::after {
+        margin-top: 20px; }
+     .row .left_block {
+        text-align: left;
+        border: none;
+    }
+    section {
+        padding: 15px 0;
+    }
+     section h3 {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    }
+    .nav_menu .ul_top_menu {
+        margin-top: 0;
+    }
+}
+
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+ /* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+
+}
